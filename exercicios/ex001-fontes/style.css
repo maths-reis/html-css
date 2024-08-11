@@ -1,0 +1,23 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
+body {
+    background-color: grey;
+} 
+
+h1{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 2em;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#princ{
+    font-family: "Fredericka the Great";
+    font-size: 2em;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
